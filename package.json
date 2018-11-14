@@ -7,14 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "Michal Aibin",
+  "author": "Alex B",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.2",
-    "fetch": "^1.1.0",
     "hbs": "^4.0.1",
     "json-server": "^0.14.0",
     "request": "^2.88.0"
-  },
-  "devDependencies": {}
+  }
 }
